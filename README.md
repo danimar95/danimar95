@@ -1,7 +1,7 @@
  Hi there 👋 I’m **Daniela Martinez!**
  ### About Me
  I'm a Frontend Developer.:woman_technologist: I'm a fast learner looking forward to facing new challenges and learning more about the development world.
- Currently working on projects for my portafolio. 
+
  
  Languages and Tools  :
  
