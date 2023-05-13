@@ -5,7 +5,7 @@
  
  Languages and Tools  :
  
- HTML, CSS, Javascript, Jquery, Bootstrap, Material Design, React , Redux, Vue.js, PHP, SQL, Git, Github
+ HTML, CSS, Vanilla Javascript, React JS, Typescript, Bootstrap, Material UI, Tailwind, React-redux, Redux-toolkit, React- query, Git, Github
   
  
 <!---
