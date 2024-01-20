@@ -1,12 +1,8 @@
  Hi there 👋 I’m **Daniela Martinez!**
  ### About Me
- I'm a Frontend Developer.:woman_technologist: I'm a fast learner looking forward to facing new challenges and learning more about the development world.
+I'm a Full-stack Developer specializing in Front-end development. I have a good understanding of front-end technologies such as HTML5, CSS, JavaScript, React JS, Redux-Toolkit, React-query, Typescript, Bootstrap, MUI, Tailwind, jQuery, SQL, Jest, Cypress, and React testing library.
 
- 
- Languages and Tools  :
- 
- HTML, CSS, Vanilla Javascript, React JS, Typescript, Bootstrap, Material UI, Tailwind, React-redux, Redux-toolkit, React- query, Git, Github
-  
+I also have experience with Ruby on Rails and a solid understanding of RESTful APIs. I am result-oriented and have experience with responsive and agile development. I am a fast learner and am looking forward to facing new challenges as a Front-End Web Developer / Full-Stack Developer.
  
 <!---
 danimar95/danimar95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
